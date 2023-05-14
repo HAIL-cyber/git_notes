@@ -1,0 +1,23 @@
+# what is git ? 
+git is version control system .
+
+# How to initialize git repository ?
+git init 
+
+# How to pull remote repository to local repository ?
+git clone [url]
+
+# How to add file to staging area ?
+git add [-A or filename]
+
+# How to commit ?
+git commit -m " message "
+
+# How to see git history ?
+git log 
+
+# How to push file from local repository to remote repository ?
+git push -u [url] [branch_name]
+  
+# How to check status of working tree ?
+git status
